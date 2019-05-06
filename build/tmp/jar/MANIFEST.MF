@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-simple-1.7.26.jar slf4j-api-1.7.26.jar
+Main-Class: com.occ.code.Application
+Built-By: Siddharth Jain
+Created-By: Gradle 4.10.3
+Build-Jdk: 11.0.2 (Oracle Corporation 11.0.2+9-LTS)
+
